@@ -13,10 +13,18 @@
 // Estos datos son públicos por diseño: la seguridad real está
 // en las reglas de Firestore (archivo firestore.rules).
 export const firebaseConfig = {
-  apiKey: "PEGA_AQUI_TU_API_KEY",
-  authDomain: "TU-PROYECTO.firebaseapp.com",
-  projectId: "TU-PROYECTO",
-  storageBucket: "TU-PROYECTO.firebasestorage.app",
-  messagingSenderId: "000000000000",
-  appId: "1:000000000000:web:0000000000000000"
+  apiKey: «AizaSyBNJn0B7bHvumGetDtW8S2yUUTqDZBEeo»,
+
+  authDomain: "tablero-equipo-5.firebaseapp.com",
+
+  ProyectoId: "tablero-equipo-5",
+
+  AlmacenamientoCubo: "tablero-equipo-5.firebasestorage.app",
+
+  MensajeríaSenderId: «909231859372»,
+
+  appId: «1:909231859372:web:315e3cf804481aac9ca109»
 };
+// La configuración de Firebase de tu aplicación web
+
+
